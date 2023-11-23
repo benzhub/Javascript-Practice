@@ -18,4 +18,12 @@
 
 // // Arrays
 // import "./src/004-Arrays/001-Array-Example";
-import "./src/004-Arrays/002-Basic-Array-Operations";
+// import "./src/004-Arrays/002-Basic-Array-Operations";
+
+// // Objects
+// import "./src/005-Objects/001-Dot-vs-Bracket-Notation";
+// import "./src/005-Objects/002-Object-Methods";
+// import "./src/005-Objects/003-For-Loop";
+// import "./src/005-Objects/004-LoopingArrays-Breaking-and-Continuing";
+// import "./src/005-Objects/005-Loops-in-Loops";
+import "./src/005-Objects/006-While-Loop";
