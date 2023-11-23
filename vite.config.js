@@ -15,8 +15,6 @@ export default defineConfig({
         // eslint-disable-next-line no-undef
         main: resolve(__dirname, 'index.html'),
         // eslint-disable-next-line no-undef
-        [`006001-selecting-elements`]: resolve(__dirname, '006001-selecting-elements/index.html'),
-        // eslint-disable-next-line no-undef
         [`001001-variables`]: resolve(__dirname, '001001-variables/index.html'),
         // eslint-disable-next-line no-undef
         [`002001-type-conversion-and-coercion`]: resolve(__dirname, '002001-type-conversion-and-coercion/index.html'),
@@ -56,6 +54,8 @@ export default defineConfig({
         [`005005-loops-in-loops`]: resolve(__dirname, '005005-loops-in-loops/index.html'),
         // eslint-disable-next-line no-undef
         [`005006-while-loop`]: resolve(__dirname, '005006-while-loop/index.html'),
+        // eslint-disable-next-line no-undef
+        [`006001-selecting-elements`]: resolve(__dirname, '006001-selecting-elements/index.html'),
       },
     },
   },
