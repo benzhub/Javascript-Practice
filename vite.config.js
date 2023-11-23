@@ -9,6 +9,7 @@ import { resolve } from "path";
 export default defineConfig({
   plugins: [eslint(), Inspect()],
   build: {
+    outDir: 'docs',
     rollupOptions: {
       input: {
         // eslint-disable-next-line no-undef
