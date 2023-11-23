@@ -9,9 +9,13 @@
 // import "./src/002-operators/005-The-switch-Statement";
 // import "./src/002-operators/006-The-Conditional-(Ternary)-Operator";
 
-// Functions
+// // Functions
 // import "./src/003-functions/001-Activating-Strict-Mode";
 // import "./src/003-functions/002-Function-Example";
 // import "./src/003-functions/003-Function-Declarations-vs-Expressions";
 // import "./src/003-functions/004-Arrow-Functions";
-import "./src/003-functions/005-Functions-Calling-Other-Functions";
+// import "./src/003-functions/005-Functions-Calling-Other-Functions";
+
+// // Arrays
+// import "./src/004-Arrays/001-Array-Example";
+import "./src/004-Arrays/002-Basic-Array-Operations";
