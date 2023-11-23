@@ -26,4 +26,5 @@
 // import "./src/005-Objects/003-For-Loop";
 // import "./src/005-Objects/004-LoopingArrays-Breaking-and-Continuing";
 // import "./src/005-Objects/005-Loops-in-Loops";
-import "./src/005-Objects/006-While-Loop";
+// import "./src/005-Objects/006-While-Loop";
+console.log('main');
