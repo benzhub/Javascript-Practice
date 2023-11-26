@@ -25,10 +25,10 @@ console.log(mike.age());
 // {birthYear: 2001, age: ƒ}
 // 22
 
-const x = jack.age;
-console.log(x()); // this不能指向function
-// Window {window: Window, self: Window, document: document, name: '', location: Location, …}
-// NaN
+// const x = jack.age;
+// console.log(x()); // this不能指向function
+// // undefined
+// // Uncaught TypeError: Cannot read properties of undefined (reading 'birthYear')
 
 const betty = (height, weight) => {
   let BMI = weight / height ** 2;

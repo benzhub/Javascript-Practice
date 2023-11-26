@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 const betty = {
   name: "Betty",
@@ -7,7 +7,7 @@ const betty = {
   height: 1.65,
   weight: 55,
   healthStatus() {
-    console.log(this);
+    // console.log(this);
 
     // old school solution(將this 放到一個變數中傳遞下去)
     const that = this;
