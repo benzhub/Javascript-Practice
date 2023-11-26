@@ -1,3 +1,5 @@
+'use strict';
+
 // Function Declarations
 //   Hoisted: Yes
 //   Inital Value: Actual Function

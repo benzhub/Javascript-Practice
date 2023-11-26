@@ -1,3 +1,5 @@
+'use strict';
+
 const betty = {
   name: "Betty",
   gender: "F",
